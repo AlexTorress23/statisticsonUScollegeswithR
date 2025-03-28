@@ -51,7 +51,7 @@ El vídeo editado se puede ver en:
 https://www.youtube.com/@alex_torress23
 
 Este código está en
-https://github.com/alex_torress23/visualizacion
+https://github.com/AlexTorress23/statisticsonUScollegeswithR/blob/main/visualizacion.R
 
 "
 cat(texto,"\n")
